@@ -1,0 +1,6 @@
+{
+  "generator-sp": {
+    "capprojectname": "demi-site-html",
+    "webpack": true
+  }
+}
